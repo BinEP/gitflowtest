@@ -16,3 +16,5 @@ changes
 changes again
 
 feature7
+
+feature8
